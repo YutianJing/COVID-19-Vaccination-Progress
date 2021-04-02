@@ -1,0 +1,5 @@
+user = 'postgres'
+password = '309512'
+host = 'localhost'
+port = '5432'
+dbname = 'data-tutorial'
